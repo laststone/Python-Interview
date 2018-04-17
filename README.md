@@ -1,2 +1,2 @@
 # Python-Interview
-some python Interview questions sorting and classifying from Network
+some python Interview questions classifying from Network
